@@ -1,0 +1,1 @@
+ Remove-Item 'C:\ProgramData\Docker', 'C:\ProgramData\DockerDesktop', 'C:\Program Files\Docker', 'C:\Users\voonyee\AppData\Local\Docker', 'C:\Users\voonyee\AppData\Roaming\Docker', 'C:\Users\voonyee\AppData\Roaming\"Docker Desktop"', 'C:\Users\voonyee\.docker' 
